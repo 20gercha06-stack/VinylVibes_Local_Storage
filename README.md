@@ -22,8 +22,8 @@ Este proyecto utiliza `localStorage` para guardar la información. Esto signific
 1. Los datos son **privados y locales**: Solo son visibles en el navegador donde fueron creados.
 2. No requiere de una base de datos externa ni de un servidor complejo para funcionar, lo que lo hace ideal para prototipos y herramientas personales.
 
-## 📋 Cómo contribuir
-Si deseas colaborar o mejorar el código, siéntete libre de hacer un *fork* del repositorio y enviar tus *pull requests*.
 
 ---
-Desarrollado con pasión por la música y el código.
+Desarrollado:
+Geraldine Chávez Gutiérrez
+Jesús Rojas Arreguín
