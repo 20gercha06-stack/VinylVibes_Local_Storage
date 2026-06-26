@@ -15,7 +15,7 @@ Puedes acceder a la versión en vivo aquí:
 ## 🛠️ Tecnologías Utilizadas
 * **Frontend:** HTML5, CSS3 y JavaScript puro (Vanilla JS).
 * **Almacenamiento:** Browser LocalStorage API.
-* **Hosting:** Desplegado a través de [Github Pages]
+* **Hosting:** Desplegado a través de Github Pages
 
 ## 💡 Notas sobre el Almacenamiento
 Este proyecto utiliza `localStorage` para guardar la información. Esto significa que:
