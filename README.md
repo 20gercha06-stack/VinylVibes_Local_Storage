@@ -4,7 +4,7 @@ VinylVibes es una plataforma web dedicada a la gestión y visualización de un c
 
 ## 🔗 Enlace al Proyecto
 Puedes acceder a la versión en vivo aquí:
-[https://6a3d9364c05b062d0c3df5ff--celadon-quokka-178d84.netlify.app/index.html](https://6a3d9364c05b062d0c3df5ff--celadon-quokka-178d84.netlify.app/index.html)
+(https://20gercha06-stack.github.io/VinylVibes_Local_Storage/)
 
 ## 🚀 Características
 * **Gestión de Sesiones:** Sistema de login para diferenciar acceso de usuarios y administradores.
@@ -15,7 +15,7 @@ Puedes acceder a la versión en vivo aquí:
 ## 🛠️ Tecnologías Utilizadas
 * **Frontend:** HTML5, CSS3 y JavaScript puro (Vanilla JS).
 * **Almacenamiento:** Browser LocalStorage API.
-* **Hosting:** Desplegado a través de [Netlify](https://www.netlify.com/).
+* **Hosting:** Desplegado a través de [Github Pages]
 
 ## 💡 Notas sobre el Almacenamiento
 Este proyecto utiliza `localStorage` para guardar la información. Esto significa que:
